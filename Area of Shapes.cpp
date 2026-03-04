@@ -58,7 +58,7 @@ int main()
 			area = π * pow(radius, 2.0);
 			cout << area << " " << endl;
 		}
-		else if (userInput == "parallelogram" || userInput == "Parallloegram")
+		else if (userInput == "parallelogram" || userInput == "Parallelogram")
 		{
 			cout << "Please can you input your vaules for a Parallelogram" << endl;
 			cin >> base;
@@ -89,4 +89,5 @@ int main()
 	}
 	
 	return 0;
+
 }
